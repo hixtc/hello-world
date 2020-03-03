@@ -1,6 +1,4 @@
 # hello-world
-Have a try
-
-Hey folks, 
+Have a try!
 
 We are progressing today! Nice work, keep it up!
